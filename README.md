@@ -1,1 +1,1 @@
-# Entry-Mid-Level-AI-Projects
+# Entry-Mid Level AI Projects
